@@ -1,0 +1,12 @@
+.penguee-cell {
+	display: inline-block; width: 5px; height: 5px; margin: 0; padding: 0; vertical-align: top;
+}
+.penguee-cell-sea {
+	background: #03c;
+}
+.penguee-cell-ice {
+	background: #def;
+}
+.penguee-n {
+	position: absolute; left: 0; top: 0; width: 5px; height: 5px; margin: 0; padding: 0; line-height: 0; vertical-align: middle; text-align: center;
+}

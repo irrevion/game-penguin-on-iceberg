@@ -1,0 +1,22 @@
+@font-face {
+    font-family: segment;
+    src: url("../assets/fonts/7SEGMENTALDIGITALDISPLAY.ttf");
+}
+
+body {
+	background: #043749;
+}
+
+#map {
+	position: relative; width: 480px; height: 240px; margin: 0 auto; background: #000; padding: 0; line-height: 0;
+}
+
+p.game-header {
+	font-family: segment; font-size: 18px; font-weight: bold; color: #dd0; text-align: center;
+}
+div.gaming-stats {
+	font-family: segment; font-size: 22px; color: #dd0; text-align: center; margin-top: 10px;
+}
+div.gaming-stats p {
+	margin-bottom: 10px;
+}
